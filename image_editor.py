@@ -57,7 +57,7 @@ if not os.path.exists(pathOut):
     os.makedirs(pathOut)
 
 for filename in os.listdir(path):
-    if filename.endswith("JPG") or filename.endswith("jpg"):
+    if filename.endswith("JPG") or filename.endswith("jpg") or filename.endswith("png") or filename.endswith("PNG"):
         img = Image.open(f"{path}/{filename}")
 
         # Apply sepia and analogue effects if user chose "yes"
