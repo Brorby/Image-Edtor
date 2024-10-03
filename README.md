@@ -8,11 +8,11 @@
 
 Here's a photo of my dog before it is edited:
 
-![alt text](image-2.png)
+![alt text](images_for_readme/image-2.png)
 
 And now after i asked the program to make it look like the picture was taken with an analogue camera from 1980:
 
-![alt text](image-1.png)
+![alt text](images_for_readme/image-1.png)
 
 ### Feel free to try it out yourself!
 
