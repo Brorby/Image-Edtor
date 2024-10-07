@@ -1,7 +1,7 @@
 # Image-Editor 📷
 
 - ☝️ Add your desired photos that you want to edit in the **images**-folder
-- ✌️ Run the image_editor.py file and answer the yes or no questions to specify how you want your images edited
+- ✌️ Run the image_editor.py file and answer the yes- or no questions to specify how you want your images to be edited
 - ✨ Wait for a second while the magic happens and voila! your images have been perfectionated. view them in the **editedImages**-folder
 
 ## Example
